@@ -1,0 +1,4 @@
+upstreams:
+  sis: https://sis.juniper-studio.internal/api
+  reporting: http://reports-staging.corp.local:8080
+  db_host: juniperstudio-db.internal:5432
